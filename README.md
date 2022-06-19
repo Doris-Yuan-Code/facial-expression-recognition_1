@@ -1,2 +1,1 @@
-# facial-expression-recognition_1
-facial-expression-recognition_1
+将model文件夹放入BP文件夹中即可
